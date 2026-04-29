@@ -1,4 +1,4 @@
 function saudacao(nome) {
-  return `Olá, ${nome}!`;
+  return `Hello, ${nome}!`;
 }
 module.exports = saudacao;
